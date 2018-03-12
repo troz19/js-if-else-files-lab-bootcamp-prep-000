@@ -1,1 +1,4 @@
-console.log(name)
+
+var index = require
+
+console.log(index.name)
